@@ -6,6 +6,9 @@ config.ini
 secrets.json
 api_keys.json
 
+# Secret scanning baseline (это OK коммитить)
+# .secrets.baseline
+
 # Python
 __pycache__/
 *.py[cod]
