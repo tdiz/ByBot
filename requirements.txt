@@ -1,0 +1,21 @@
+# ByBit Trading Bot Dependencies
+
+# Environment variables management
+python-dotenv==1.0.0
+
+# ByBit API client
+pybit==5.6.2
+
+# Data analysis and processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Technical indicators
+ta==0.11.0
+
+# Logging and utilities
+colorlog==6.8.0
+
+# Testing (optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1
